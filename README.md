@@ -1,1 +1,1 @@
-coding is fun
+About Bash projects
