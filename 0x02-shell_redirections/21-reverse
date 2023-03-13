@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Alx' | tr '[:lower:]' '[:upper:]'
+tr '[:lower:]' '[:upper:]'
